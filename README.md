@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harith Bashar
 - 👀 I’m interested in developing apps
-- 🌱 I’m currently learning Dart & Flutter
+- 🌱 I work with Flutter framework 
 - 💞️ I’m looking to collaborate on any programming company
-- 📫 How to reach me: harithBashar@gmail.com
+- 📫 Email: harithbashar@gmail.com
